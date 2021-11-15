@@ -1,0 +1,6 @@
+test_jsb (jianlian.classs_api.TetsJianlian) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 41.547s
+
+OK

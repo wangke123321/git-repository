@@ -1,0 +1,543 @@
+2021-10-15 19:15:28,690-DEBUG-login_wk.py-收到错误级别-日志信息:昆山市
+2021-10-15 19:15:28,690-ERROR-login_wk.py-收到错误级别-日志信息:多少岁的
+2021-10-15 19:15:28,695-CRITICAL-login_wk.py-收到错误级别-日志信息:啥大事
+2021-10-15 19:17:16,480-DEBUG-login_wk.py-E:\python\project\jianlian\login_api\login_wk.py-日志信息:昆山市
+2021-10-15 19:17:16,481-ERROR-login_wk.py-E:\python\project\jianlian\login_api\login_wk.py-日志信息:多少岁的
+2021-10-15 19:17:16,483-CRITICAL-login_wk.py-E:\python\project\jianlian\login_api\login_wk.py-日志信息:啥大事
+2021-10-15 19:18:06,430-DEBUG-login_wk.py-刷卡交易-日志信息:昆山市
+2021-10-15 19:18:06,430-ERROR-login_wk.py-刷卡交易-日志信息:多少岁的
+2021-10-15 19:18:06,430-CRITICAL-login_wk.py-刷卡交易-日志信息:啥大事
+2021-10-15 19:20:16,662-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:18,947-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:21,279-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:23,623-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:25,979-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:28,332-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:30,385-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:32,617-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:34,761-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:36,846-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:38,996-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:41,238-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:43,316-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:45,481-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:47,593-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 19:20:49,700-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 20:03:03,852-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:05,684-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:07,621-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:09,454-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:11,487-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:13,463-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:15,759-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:18,044-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:19,796-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:21,690-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:23,605-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:25,478-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:03:27,338-INFO-login_wk.py-刷卡交易-日志信息:API返回结果<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>： 
+2021-10-15 20:04:54,056-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： <?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 20:04:56,081-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： <?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 20:04:58,145-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： <?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 20:06:06,832-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 20:06:08,640-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 20:06:10,652-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 20:06:12,688-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 20:06:14,852-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:10:50,647-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:10:52,440-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:35,316-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:37,918-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:41,032-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:43,000-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:45,159-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:47,480-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:49,710-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:52,299-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:54,571-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:56,983-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:11:59,348-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:01,918-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:03,979-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:06,059-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:08,155-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:11,104-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>99</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:15,328-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:18,199-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:20,560-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:23,748-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:26,420-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:29,193-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:31,083-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:32,992-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:34,920-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:36,759-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:38,697-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:40,624-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:12:42,654-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 21:12:44,321-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 21:12:46,091-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 21:12:47,987-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 21:12:49,655-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 21:14:05,513-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:14:07,815-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:14:09,612-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>99</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:14:11,908-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:14:13,858-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:14:15,723-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:14:17,592-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:14:20,158-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:14:22,337-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:41,692-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:43,457-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:45,305-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:47,086-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:48,894-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:50,695-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:52,615-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:55,633-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:15:59,232-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:01,303-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:03,125-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:04,907-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:06,736-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:08,712-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:11,488-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:13,735-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:16,092-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:18,288-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:20,540-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:16:22,499-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:21:54,593-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:21:56,872-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:21:59,088-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:01,424-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:03,353-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:05,207-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:07,057-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:09,584-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:11,785-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:13,950-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:15,974-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:17,943-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:19,902-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:21,876-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:23,927-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:25,851-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:27,798-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:29,855-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:31,815-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:33,760-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:35,723-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:37,720-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:39,785-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:41,727-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:43,699-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:45,907-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 21:22:48,227-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:17:57,180-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:17:59,796-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:18:01,851-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:18:03,937-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:18:48,143-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:18:50,385-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:18:52,827-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:18:54,980-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:18:57,051-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:18:59,399-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:01,555-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:04,735-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:07,412-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:09,694-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:12,079-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:14,625-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:16,607-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:18,655-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:20,559-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:22,526-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:24,783-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:26,931-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:28,886-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:31,366-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:33,680-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:35,752-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:37,788-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:39,970-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:42,118-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:44,040-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:46,926-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:50,062-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:19:52,334-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 22:19:53,952-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 22:19:55,979-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>02</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 22:19:57,392-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>02</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 22:19:58,820-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashFeeGDResponse xmlns:ns2="http://mpos.zf/"><return>02</return></ns2:withdrawCashFeeGDResponse></S:Body></S:Envelope>
+2021-10-15 22:24:41,849-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:24:44,055-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:24:45,900-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:24:47,784-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:24:49,703-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-15 22:24:51,560-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:09:39,631-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:10:03,059-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:10:26,367-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:10:49,571-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:11:12,880-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:11:36,028-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:11:59,128-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:12:22,631-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:12:45,665-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:13:08,843-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:13:31,644-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:13:54,621-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:14:17,516-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:14:40,440-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:15:03,360-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:15:27,115-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:15:50,283-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:16:14,167-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:16:37,507-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:17:01,095-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:17:24,733-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:17:47,934-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:18:11,128-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:18:34,556-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:18:57,798-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:19:20,955-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:19:44,503-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-16 15:20:08,023-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:20,875-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:23,283-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:26,798-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:29,088-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:31,185-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:33,279-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:35,358-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:37,496-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:39,664-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:41,679-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:43,796-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:45,979-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:48,039-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:50,167-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:52,241-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:54,396-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:56,580-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:43:58,604-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:00,671-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:03,259-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:05,847-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:08,182-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:10,436-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:12,648-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:14,852-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:16,982-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:19,463-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-10-17 19:44:22,456-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:28,270-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:30,230-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:32,055-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:33,990-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:35,950-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:37,960-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:39,915-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:41,873-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:43,823-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:45,830-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:47,815-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:49,590-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:51,415-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:53,239-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:55,209-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:57,166-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:54:58,976-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:01,233-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:03,283-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:05,176-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:07,017-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:08,815-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:10,638-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:12,614-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:15,032-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:18,076-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:20,608-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-16 23:55:22,847-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:02:45,331-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:02:47,195-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:02:49,420-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:02:51,644-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:02:53,627-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:02:55,496-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:02:57,318-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:02:59,964-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:02,605-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:04,580-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:06,500-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:08,480-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:10,256-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:12,199-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:14,273-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:16,678-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:18,947-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:21,022-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:23,552-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:25,945-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:28,578-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:30,763-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:33,036-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:35,139-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:36,888-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:38,733-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:40,495-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
+2021-11-17 21:03:42,343-INFO-login_wk.py-刷卡交易-日志信息:API返回结果： 
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>

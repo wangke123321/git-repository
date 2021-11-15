@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:withdrawCashResponse xmlns:ns2="http://mpos.zf/"><return>00</return></ns2:withdrawCashResponse></S:Body></S:Envelope>
