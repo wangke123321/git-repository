@@ -1,0 +1,70 @@
+[2022-07-28 20:12:55.399] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:13:02.848] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:13:02.848] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-28 20:13:12.925] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:13:12.925] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-28 20:13:14.975] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-28 20:13:14.975] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-28 20:13:14.975] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-28 20:13:57.928] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:14:04.557] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:14:04.557] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-28 20:14:14.629] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:14:14.629] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-28 20:14:16.649] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-28 20:14:16.649] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-28 20:14:16.649] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-28 20:16:12.696] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:16:19.506] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:16:19.506] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-28 20:16:29.584] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:16:29.584] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-28 20:16:31.606] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-28 20:16:31.606] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-28 20:16:31.606] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-28 20:17:09.702] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:17:16.333] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:17:16.333] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-28 20:17:26.420] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:17:26.420] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-28 20:17:28.448] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-28 20:17:28.448] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-28 20:17:28.448] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-28 20:26:45.695] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:26:52.384] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:26:52.384] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-28 20:27:02.473] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:27:02.488] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-28 20:27:04.516] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-28 20:27:04.516] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-28 20:27:04.516] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-28 20:30:21.905] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:30:29.288] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:30:29.288] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-28 20:30:39.344] log.py -> logMsg line:77 [ERROR] : run fail
+[2022-07-28 20:30:39.344] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-28 20:30:52.772] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:30:59.522] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:30:59.522] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-28 20:31:09.592] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:31:09.592] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-28 20:31:11.603] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-28 20:31:11.612] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-28 20:31:11.612] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-28 20:31:46.242] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:31:49.379] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:31:49.380] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-28 20:31:59.792] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:31:59.792] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-28 20:32:02.088] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:32:02.088] log.py -> logMsg line:73 [INFO] : step4: 4,close,close webdrive,Logon,,,,,2,1,1,1
+[2022-07-28 20:32:04.282] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:32:04.282] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-28 20:32:08.856] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:32:08.857] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,15,1,1,1
+[2022-07-28 20:32:24.199] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:32:24.199] log.py -> logMsg line:73 [INFO] : step3: 3,click,同城,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[2]/div/div,,,,2,1,1,1
+[2022-07-28 20:32:26.483] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:32:26.483] log.py -> logMsg line:73 [INFO] : step4: 4,quit,close webdrive,Logon,,,,,2,1,1,1
+[2022-07-28 20:32:30.692] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-28 20:32:30.692] log.py -> logMsg line:73 [INFO] : global dictionary：{'date': '2022-07-28 20:32:30.692322', 'time': '1659011550692', 'today': '28-Jul-2022', 'today+six': '03-Aug-2022', 'today-six': '22-Jul-2022'}

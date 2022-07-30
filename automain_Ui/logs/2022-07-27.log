@@ -1,0 +1,41 @@
+[2022-07-27 19:43:46.918] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-27 19:43:54.314] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:43:54.314] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-27 19:44:04.386] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:44:04.386] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-27 19:44:06.423] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-27 19:44:06.443] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-27 19:44:06.443] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-27 19:46:40.063] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-27 19:46:46.718] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:46:46.718] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-27 19:46:56.799] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:46:56.799] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-27 19:46:58.835] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-27 19:46:58.835] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-27 19:46:58.835] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-27 19:47:25.109] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-27 19:47:31.725] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:47:31.725] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-27 19:47:41.800] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:47:41.800] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-27 19:47:43.833] log.py -> logMsg line:75 [WARNING] : NotFound://*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div
+[2022-07-27 19:47:43.833] log.py -> logMsg line:77 [ERROR] : element locate fail
+[2022-07-27 19:47:43.833] log.py -> logMsg line:73 [INFO] : case execute stop casue:None
+[2022-07-27 19:48:35.144] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-27 19:48:41.816] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:48:41.816] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,10,1,1,1
+[2022-07-27 19:48:52.684] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:48:52.684] log.py -> logMsg line:73 [INFO] : step3: 3,click,电影,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[3]/div/div,,,,2,1,1,1
+[2022-07-27 19:48:55.556] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:48:55.556] log.py -> logMsg line:73 [INFO] : step4: 4,close,close webdrive,Logon,,,,,2,1,1,1
+[2022-07-27 19:48:58.065] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:48:58.065] log.py -> logMsg line:73 [INFO] : step1: 1,openurl,打开浏览器,Logon,,https://weibo.com/,,,1,1,1,1
+[2022-07-27 19:49:04.749] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:49:04.750] log.py -> logMsg line:73 [INFO] : step2: 2,refresh,刷新,Logon,,,,,15,1,1,1
+[2022-07-27 19:49:20.515] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:49:20.515] log.py -> logMsg line:73 [INFO] : step3: 3,click,同城,Logon,//*[@id="app"]/div[1]/div[2]/div[2]/main/div[1]/div/div[1]/div/div/div/div[2]/div/div,,,,2,1,1,1
+[2022-07-27 19:49:23.354] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:49:23.355] log.py -> logMsg line:73 [INFO] : step4: 4,quit,close webdrive,Logon,,,,,2,1,1,1
+[2022-07-27 19:49:25.964] log.py -> logMsg line:73 [INFO] : run success 
+[2022-07-27 19:49:25.966] log.py -> logMsg line:73 [INFO] : global dictionary：{'date': '2022-07-27 19:49:25.966283', 'time': '1658922565966', 'today': '27-Jul-2022', 'today+six': '02-Aug-2022', 'today-six': '21-Jul-2022'}
